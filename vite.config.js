@@ -8,8 +8,5 @@ export default defineConfig({
     [
       react(),
       tailwindcss(),
-
-
     ],
-  base: process.env.BASE_VITE_PATH || "/React_Vite_CRUD"
 })
